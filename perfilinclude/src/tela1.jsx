@@ -1,10 +1,12 @@
 import {} from 'react-icons/ri';
 import './styles.css';
-import { RiCrossLine } from "react-icons/ri";
-import { RiInstagramLine } from "react-icons/ri";
-import { motion } from 'framer-motion';
-import { RiCrossFill } from "react-icons/ri";
+
+
+
+
 import { useNavigate } from 'react-router-dom';
+import { RiCrossLine, RiInstagramLine, RiCrossFill } from "react-icons/ri";
+
 
 
 function Tela1() {
