@@ -27,13 +27,13 @@ function Tela4() {
       <div className="container-4">
         <div className="title-4">
           <img
-            src="src/fotos/morcegopng1.png"
+            src="/fotos/morcegopng1.png"
             alt="morcego"
             style={{ width: '50px', height: 'auto' }}
           />
           <h1>Realizações</h1>
           <img
-            src="src/fotos/morcegopng1.png"
+            src="/fotos/morcegopng1.png"
             alt="morcego"
             style={{ width: '50px', height: 'auto' }}
           />
@@ -90,7 +90,7 @@ function Tela4() {
         <div className="rodape-4">
           <h1 className="criador-4">
             <img
-              src="src/fotos/teia.webp"
+              src="/fotos/teia.webp"
               alt="teia"
               style={{ width: '25px', height: 'auto' }}
             />
